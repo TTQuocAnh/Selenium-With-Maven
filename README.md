@@ -1,3 +1,4 @@
+[![Selenium CI with Maven](https://github.com/TTQuocAnh/Selenium-With-Maven/actions/workflows/maven.yml/badge.svg)](https://github.com/TTQuocAnh/Selenium-With-Maven/actions/workflows/maven.yml)
 # Selenium-With-Maven
 
 # About me:
