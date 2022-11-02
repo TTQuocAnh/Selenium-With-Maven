@@ -63,8 +63,8 @@ public class Guru99Test {
         //các cau query trên tiện dùng!! nhanh hơn tiện hơn
         //so vs F12 mặc định
         //Tìm ô nhập userId
+        
         String username = "mngr451891";
-
         String password = "yrAtamA";
 
         WebElement txtUsername = myBrowser.findElement(By.cssSelector("input[name='uid']"));

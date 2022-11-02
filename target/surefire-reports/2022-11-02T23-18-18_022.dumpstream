@@ -1,4 +1,4 @@
-# Created at 2022-11-02T23:07:15.450
+# Created at 2022-11-02T23:18:18.672
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Source_Netbeans\selenium-2-go\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 

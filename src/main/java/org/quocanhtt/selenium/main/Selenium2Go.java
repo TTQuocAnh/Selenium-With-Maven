@@ -64,6 +64,12 @@ public class Selenium2Go {
         //selector ra các tag
         //có các query sau: theo id, cssselector, Xpath,...
         //Xpath là mạnh nhất, lun tìm đc 1 tag bất kì trong các tag lồng nhau
+        
+        //MyBrowser sẽ nắm giữ các tag của  trang web đc tải về 
+        //nó cũng hỗ trợ các câu query  để tìm tag
+        //nó cũng hỗ trợ can thiệp vào hoạt động của từng tag
+        //click trên tag, input data vào tag
+        //MỖI TAG ĐC XEM LÀ 1 OBJECT THUỘC CLASS CỦA WEBELEMENT 
 
         WebElement lblSearch = myBrowser.findElement(By.name("q"));
         lblSearch.sendKeys("Ca sĩ mặt nạ");
